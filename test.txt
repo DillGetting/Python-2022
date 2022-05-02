@@ -1,0 +1,14 @@
+search spider test file
+and plan of action.
+
+what you basically have to do is figure out how to first find a file with the search string
+included in it, like if you're searching for a string like "ed" it
+should be able to find files with names like "education.txt" and "mr.ed" etc.
+Once you can do that, while printing the absolute path for each,
+you then need to use recursion. That requires you to call that original function
+with slightly different parameters. You should be able to do all of this in one function.
+
+
+
+this was my plan and I was unable to get anything productive to happen with my 4 tries so far.
+I am just turning in what I have because I am pretty sure it is due. I will keep working on it.
